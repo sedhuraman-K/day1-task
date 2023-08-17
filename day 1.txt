@@ -1,0 +1,6 @@
+q . who is sedhu?
+ans . sedhu famous full stock developer.
+
+    let sedhu_age = 27;
+
+    console.log( sedhu_age);
